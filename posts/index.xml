@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Genesis Block</title>
+    <link>https://0xGenesis-xyz.github.io/posts/</link>
+    <description>Recent content in Posts on Genesis Block</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://0xGenesis-xyz.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crypto Knowledge Graph</title>
+      <link>https://0xGenesis-xyz.github.io/posts/crypto-knowledge-graph/</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xGenesis-xyz.github.io/posts/crypto-knowledge-graph/</guid>
+      <description>Crypto world is a dark forest. Due to lack of regulations, there are lots of scams and Ponzi schemes. The more technology weapons you equip, the better you can protest yourself.
+Basic blockchain: https://youtu.be/_160oMzblY8
+public/private key
+Bitcoin white paper: https://bitcoin.org/bitcoin.pdf
+peer-to-peer payment without a centralized service
+proof-of-work
+halving
+digital gold
+Ethereum white paper: https://ethereum.org/en/whitepaper/
+development doc: https://ethereum.org/en/developers/docs/
+gas
+EIP-1559
+proof-of-stake
+scaling
+Smart Contract ERC-20
+https://ethereum.org/en/developers/tutorials/erc20-annotated-code/
+Applications Cefi Coinbase
+Celsius
+Nexo</description>
+    </item>
+    
+  </channel>
+</rss>
